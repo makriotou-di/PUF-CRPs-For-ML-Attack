@@ -1,5 +1,5 @@
 # PUF-CRPs-For-ML-Attack
-- Challenge-Response Pairs (CRPs) obtained via an optical PUF for ML attack.
+- Challenge-Response-Pairs (CRPs) obtained via an optical PUF for ML attack.
 1. Uncorrelated_N2_Ch.zip contains 250 uncorrelated challenges of N=128x128 resolution with N/2 contributing pixels while Uncorrelated_N2_Re.zip contains their corresponding responses.
 2. Uncorrelated_N4_Ch.zip contains 250 uncorrelated challenges of N=128x128 resolution with N/4 contributing pixels while Uncorrelated_N4_Re.zip contains their corresponding responses.
 3. Uncorrelated_N8_Ch.zip contains 250 uncorrelated challenges of N=128x128 resolution with N/8 contributing pixels while Uncorrelated_N8_Re.zip contains their corresponding responses.
